@@ -1,1 +1,1 @@
-<? php required("index.html")?>
+<? php include_ones("index.html")?>
